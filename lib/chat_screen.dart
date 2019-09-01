@@ -29,7 +29,7 @@ class ChatScreenState extends State<ChatScreen>
   {
     return IconTheme(
       data: new IconThemeData(
-        color: Colors.teal
+        color: Colors.orange
       ),
       child: new Container(
 
